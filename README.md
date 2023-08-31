@@ -48,7 +48,7 @@ You need to change the below configuration in [Terraform.tf](https://github.com/
 
 ## Pre Requisite
 
-You need to install and configure Docker, Terraform and AWS Cli in your local machine.
+You need to install and configure [Docker](https://github.com/jadonharsh109/My-DevOps-Journey/blob/cf6b153e11b02e4b579f9f3764e976ca11badd05/DevOps%20CheatSheet/Vm's%20Provisioning%20Script/Installation%20-%20Docker.txt) , [Terraform](https://github.com/jadonharsh109/My-DevOps-Journey/blob/cf6b153e11b02e4b579f9f3764e976ca11badd05/DevOps%20CheatSheet/Vm's%20Provisioning%20Script/Installation%20-%20Terraform.txt) and AWS Cli in your local machine.
 
 ```bash
   aws configure
