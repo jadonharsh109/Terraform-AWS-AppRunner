@@ -28,7 +28,7 @@ Here are some of the benefits of using Terraform to manage AWS infrastructure:
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables of AWS account to your terraform.tfvars file
+To run this project, you will need to add the following environment variables of the AWS account to your [terraform.tfvars]([https://www.google.com](https://github.com/jadonharsh109/Terraform-AWS-AppRunner/blob/fb4c3edcbf849c2be8f2e378484e9e96f3096e58/Terraform%20App%20Runner%20Env/terraform.tfvars) file
 
 `access_key` 
 
