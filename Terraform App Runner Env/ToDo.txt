@@ -1,0 +1,7 @@
+Manager TfState in S3 and dynamo DB.
+
+1. Create ECR
+2. Create IAM Role
+3. Assign Role to App Runner
+3. Create AWS App Runner
+4. Run the service 
