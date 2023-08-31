@@ -3,8 +3,8 @@
 
 The Terraform repo contains the following:
 
-- Terraform scripts: These scripts are written in the HashiCorp Configuration Language (HCL) and define the infrastructure that will be created in AWS. The scripts can create an ECR repository, App Runner service, and IAM roles and policies.
-- React App directory: This directory contains a React application that can be deployed to App Runner.
+- [Terraform scripts](https://github.com/jadonharsh109/Terraform-AWS-AppRunner/tree/fb4c3edcbf849c2be8f2e378484e9e96f3096e58/Terraform%20App%20Runner%20Env): These scripts are written in the HashiCorp Configuration Language (HCL) and define the infrastructure that will be created in AWS. The scripts can create an ECR repository, App Runner service, and IAM roles and policies.
+- [React App directory](https://github.com/jadonharsh109/Terraform-AWS-AppRunner/tree/fb4c3edcbf849c2be8f2e378484e9e96f3096e58/movies-app): This directory contains a React application that can be deployed to App Runner.
 The Terraform scripts can be used to create the following infrastructure in AWS:
 
 - An ECR repository: This is a private Docker registry that can be used to store Docker images.
