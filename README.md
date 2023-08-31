@@ -34,7 +34,7 @@ To run this project, you will need to add the following environment variables of
 
 `secret_key`
 
-You need to change the below configuration in Terraform.tf files.
+You need to change the below configuration in [Terraform.tf](https://github.com/jadonharsh109/Terraform-AWS-AppRunner/blob/a92b051cc0de508cba1c1a39fdfeed794b9c5c28/Terraform%20App%20Runner%20Env/Terraform.tf) files.
 
 
   backend "s3" {
