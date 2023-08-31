@@ -80,3 +80,9 @@ Apply the terraform script
   terraform apply --auto-approve
 ```
 
+## Tech Stack
+
+**AWS:** ECR, App Runner, IAM Roles, IAM Policy, S3, Dynamo DB
+
+**Others:** Terraform, Docker, Linux, ReactJS, Git 
+
